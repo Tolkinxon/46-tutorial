@@ -30,8 +30,8 @@ console.log(person.fullName);
 where the results are the same using only the keywords (get, this)
 and (fullNmane) is used as a property
 this called is getter form
-...................................................................
-Now we learn the setter
+
+____Now we learn the setter
 What is setter?
 The setter is to enter information about this 
 property in a single row
